@@ -1,0 +1,5 @@
+*.aux
+*.el
+*.gz
+*.log
+*.pdf
